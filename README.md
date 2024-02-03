@@ -1,12 +1,12 @@
 # 💫 About Me:
-I'm a second-year computer science and engineering student at SRM University, passionate about exploring the realms of coding, machine learning, and building robust applications<br><br>
+I'm a second-year computer science and engineering student at SRM University, passionate about exploring the realms of coding, machine learning, and building robust applications.<br><br>
 
 🔭 I’m currently working on building a cutting-edge ML-powered web application that predicts the likelihood of a stroke based on various health indicators and patient data.<br>👯 I’m looking to collaborate on ML projects or web applications that leverage TensorFlow and Python.<br>🤝 I’m looking for help in optimizing and deploying ML models in production environments.<br>🌱 I’m currently learning advanced techniques in TensorFlow, exploring neural architectures, and diving deeper into deployment strategies.<br>💬 Ask me about machine learning, TensorFlow, Python development, or related to building ML applications.<br>⚡ Fun fact about me: I have a passion for exploring and researching space, always fascinated by the mysteries beyond our planet. Additionally, I love diving into the world of cars and the latest innovations in the industry. <br>
 
 
 ## 🌐 Socials:
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_aymaaaaan___/) 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-haseeb-4281a1251/) 
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_aymaaaaan___/) 
 - [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aymanhaseeb8121) 
 
 # 💻 Tech Stack:
