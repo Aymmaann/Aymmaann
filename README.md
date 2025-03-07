@@ -26,7 +26,7 @@ I'm a third-year computer science and engineering student at SRM University, pas
 ![](https://gitmystat.vercel.app/top?theme=catppuccin&username=Aymmaann&layout=default)<br/>
 
 
-### 🔝 Contribution Streak
+# 🔝 Contribution Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aymmaann&theme=dark&hide_border=false)<br/>
 
 ---
