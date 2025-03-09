@@ -21,9 +21,11 @@ I'm a third-year computer science and engineering student at SRM University, pas
 <img src="https://skillicons.dev/icons?i=nodejs,react,express,mongo,tailwind,bootstrap,firebase,cloudflare,aws,gcp,azure,vite,cpp,python,javascript,typescript,java,c,tensorflow,opencv,sklearn,vscode,mysql,figma" />
 
 # 📊 GitHub Stats:
-![](https://gitmystat.vercel.app/recent?theme=catppuccin&username=Aymmaann)<br/>
-![](https://gitmystat.vercel.app/user?theme=catppuccin&username=Aymmaann)<br/>
-![](https://gitmystat.vercel.app/top?theme=catppuccin&username=Aymmaann&layout=default)<br/>
+![](https://gitmystat.vercel.app/user?theme=dark&username=Aymmaann)
+![](https://gitmystat.vercel.app/top?theme=dark&username=Aymmaann&layout=default)
+
+# 📈 Currently Working on:
+![](https://gitmystat.vercel.app/recent?theme=dark&username=Aymmaann)
 
 
 # 🔝 Contribution Streak
