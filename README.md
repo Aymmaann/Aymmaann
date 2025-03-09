@@ -22,7 +22,7 @@ I'm a third-year computer science and engineering student at SRM University, pas
 
 # 📊 GitHub Stats:
 ![](https://gitmystat.vercel.app/user?theme=dark&username=Aymmaann)
-![](https://gitmystat.vercel.app/top?theme=dark&username=Aymmaann&layout=default)
+![](https://gitmystat.vercel.app/top?theme=dark&username=Aymmaann&layout=bar)
 
 # 📈 Currently Working on:
 ![](https://gitmystat.vercel.app/recent?theme=dark&username=Aymmaann)
