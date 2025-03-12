@@ -29,7 +29,8 @@ I'm a third-year computer science and engineering student at SRM University, pas
 
 ## 🔝 Contribution Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aymmaann&theme=dark&hide_border=false)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aymmaann&theme=dark&hide_border=true&border_radius=12)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aymmaann&theme=dark&hide_border=true&border_radius=12" alt="GitHub Streak" /></a>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
