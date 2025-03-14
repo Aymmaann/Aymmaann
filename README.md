@@ -26,7 +26,9 @@ I'm a third-year computer science and engineering student at SRM University, pas
 ![](https://gitmystat.vercel.app/recent?theme=dark&username=Aymmaann)
 
 ## 🔝 Contribution Streak
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aymmaann&theme=dark&hide_border=true&border_radius=12" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aymmaann&theme=dark&hide_border=true&border_radius=12" alt="GitHub Streak" />
+</a>
 
 
 
